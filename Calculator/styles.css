@@ -53,14 +53,15 @@ button:active{
     background-color: rgb(94, 91, 91);
 }
 
-.operador{
+.operator{
     background-color: rgb(223, 127, 58);
 }
 
-.operador:hover{
+.operator:hover{
     background-color: rgb(204, 103, 31);
 }
 
-.operador:active{
+.operator:active{
     background-color: rgb(204, 130, 78);
 }
+
